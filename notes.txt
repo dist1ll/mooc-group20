@@ -1,0 +1,14 @@
+Menu 
+- Do you want to use voice or mouse commands?
+
+Explanations
+- Table with trash in front of player
+- put in right place, put score
+
+Fusion:
+- pick up the banana
+- and click
+
+Fission:
+- resolved with last command (for pick up)
+- throw is instantenous
